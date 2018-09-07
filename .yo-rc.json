@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.6.0",
+    "libraryName": "visual-cdm",
+    "libraryId": "cba0ef83-a8ab-4973-8524-5ddc65beb416",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "cdm-part-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/cdmPart/CdmPartWebPart.js",
+          "manifest": "./src/webparts/cdmPart/CdmPartWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "CdmPartWebPartStrings": "lib/webparts/cdmPart/loc/{locale}.js"
+  }
+}
