@@ -3,8 +3,8 @@
     "isCreatingSolution": true,
     "environment": "spo",
     "version": "1.6.0",
-    "libraryName": "visual-cdm",
-    "libraryId": "cba0ef83-a8ab-4973-8524-5ddc65beb416",
+    "libraryName": "visual-cdm-web-part",
+    "libraryId": "f51890f9-2685-484e-b8c6-c34968cdb093",
     "packageManager": "npm",
     "componentType": "webpart"
   }

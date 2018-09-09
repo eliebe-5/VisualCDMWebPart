@@ -1,4 +1,4 @@
-## visual-cdm
+## visual-cdm-web-part
 
 This is where you include your WebPart documentation.
 

@@ -1,13 +1,13 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
   "solution": {
-    "name": "visual-cdm-client-side-solution",
-    "id": "cba0ef83-a8ab-4973-8524-5ddc65beb416",
+    "name": "visual-cdm-web-part-client-side-solution",
+    "id": "f51890f9-2685-484e-b8c6-c34968cdb093",
     "version": "1.0.0.0",
     "includeClientSideAssets": true,
     "skipFeatureDeployment": true
   },
   "paths": {
-    "zippedPackage": "solution/visual-cdm.sppkg"
+    "zippedPackage": "solution/visual-cdm-web-part.sppkg"
   }
 }
